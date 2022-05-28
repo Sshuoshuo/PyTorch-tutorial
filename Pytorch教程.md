@@ -1,6 +1,6 @@
 # Pytorch基础教程与常用操作
 
-本教程基于本人常用的pytorch操作进行整理，用于帮助快速入门与某些torch技巧的查阅，仅限参考。
+本教程基于本人常用的pytorch操作进行整理，用于帮助快速入门与某些torch技巧的查阅，同时能帮助我们看懂别人的代码，而非涉及pytorch的所有内容，仅限参考。
 
 深入学习请多花时间阅读pytorch官方文档：[PyTorch documentation](https://pytorch.org/docs/stable/index.html)。
 
